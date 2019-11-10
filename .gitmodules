@@ -1,0 +1,3 @@
+[submodule "wavelet"]
+	path = wavelet
+	url = git@github.com:perlin-network/wavelet.git
