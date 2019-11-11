@@ -1,0 +1,6 @@
+*.css linguist-language=WebAssembly
+*.less linguist-language=WebAssembly
+*.js linguist-language=WebAssembly
+*.html linguist-language=WebAssembly
+*.ts linguist-language=WebAssembly
+*.rs linguist-language=WebAssembly
